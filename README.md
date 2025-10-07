@@ -22,7 +22,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-to clear the react app visit this documentation <a href="https://medium.com/@kzajjaj/cleaning-up-your-react-app-e0f776eb07a7" >
+to clear the react app visit this documentation <a href="https://medium.com/@kzajjaj/cleaning-up-your-react-app-e0f776eb07a7"> https://medium.com/@kzajjaj/cleaning-up-your-react-app-e0f776eb07a7 </a>
 
 In the output, you'll find options to open the app in a
 
